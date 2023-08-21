@@ -1,0 +1,1 @@
+Learning about SQL (Structured Query Language). SQL is a domain-specific language used for managing and manipulating relational databases. It's essential for working with data in various ways, such as querying, inserting, updating, and deleting data from databases.
